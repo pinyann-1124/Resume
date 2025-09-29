@@ -1,1 +1,5 @@
-# Resume
+header {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 10px;
+}
